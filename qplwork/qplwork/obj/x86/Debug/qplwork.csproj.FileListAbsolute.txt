@@ -1,0 +1,49 @@
+c:\users\дашенька\documents\visual studio 2010\Projects\qplwork\qplwork\bin\Debug\qplwork.exe
+c:\users\дашенька\documents\visual studio 2010\Projects\qplwork\qplwork\bin\Debug\qplwork.pdb
+c:\users\дашенька\documents\visual studio 2010\Projects\qplwork\qplwork\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\дашенька\documents\visual studio 2010\Projects\qplwork\qplwork\obj\x86\Debug\qplwork.Form1.resources
+c:\users\дашенька\documents\visual studio 2010\Projects\qplwork\qplwork\obj\x86\Debug\qplwork.Properties.Resources.resources
+c:\users\дашенька\documents\visual studio 2010\Projects\qplwork\qplwork\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\дашенька\documents\visual studio 2010\Projects\qplwork\qplwork\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\дашенька\documents\visual studio 2010\Projects\qplwork\qplwork\obj\x86\Debug\qplwork.exe
+c:\users\дашенька\documents\visual studio 2010\Projects\qplwork\qplwork\obj\x86\Debug\qplwork.pdb
+C:\Users\Алексей\Desktop\qplwork\qplwork\qplwork\obj\x86\Debug\qplwork.exe
+C:\Users\Алексей\Desktop\qplwork\qplwork\qplwork\obj\x86\Debug\qplwork.pdb
+C:\Users\Алексей\Desktop\qplwork\qplwork\qplwork\bin\Debug\qplwork.exe
+C:\Users\Алексей\Desktop\qplwork\qplwork\qplwork\bin\Debug\qplwork.pdb
+C:\Users\Алексей\Desktop\qplwork\qplwork\qplwork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\qplwork\qplwork\qplwork\obj\x86\Debug\qplwork.Form1.resources
+C:\Users\Алексей\Desktop\qplwork\qplwork\qplwork\obj\x86\Debug\qplwork.Properties.Resources.resources
+C:\Users\Алексей\Desktop\qplwork\qplwork\qplwork\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Алексей\Desktop\qplwork\qplwork\qplwork\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Алексей\Desktop\qplwork\qplwork\qplwork\bin\Debug\ICO.ico
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\qplwork\qplwork\obj\x86\Debug\qplwork.exe
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\qplwork\qplwork\obj\x86\Debug\qplwork.pdb
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\qplwork\qplwork\bin\Debug\ICO.ico
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\qplwork\qplwork\bin\Debug\qplwork.exe
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\qplwork\qplwork\bin\Debug\qplwork.pdb
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\qplwork\qplwork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\qplwork\qplwork\obj\x86\Debug\qplwork.Form1.resources
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\qplwork\qplwork\obj\x86\Debug\qplwork.Properties.Resources.resources
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\qplwork\qplwork\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\qplwork\qplwork\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\qplwork\qplwork\obj\x86\Debug\qplwork.MsgBoxHelp.resources
+C:\Users\Михаил\Desktop\portfolio_setting с ошибкой\Projects\qplwork\qplwork\obj\x86\Debug\qplwork.exe
+C:\Users\Михаил\Desktop\portfolio_setting с ошибкой\Projects\qplwork\qplwork\obj\x86\Debug\qplwork.pdb
+C:\Users\Михаил\Desktop\portfolio_setting с ошибкой\Projects\qplwork\qplwork\bin\Debug\ICO.ico
+C:\Users\Михаил\Desktop\portfolio_setting с ошибкой\Projects\qplwork\qplwork\bin\Debug\qplwork.exe
+C:\Users\Михаил\Desktop\portfolio_setting с ошибкой\Projects\qplwork\qplwork\bin\Debug\qplwork.pdb
+C:\Users\Михаил\Desktop\portfolio_setting с ошибкой\Projects\qplwork\qplwork\obj\x86\Debug\qplwork.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\portfolio_setting с ошибкой\Projects\qplwork\qplwork\obj\x86\Debug\qplwork.Form1.resources
+C:\Users\Михаил\Desktop\portfolio_setting с ошибкой\Projects\qplwork\qplwork\obj\x86\Debug\qplwork.MsgBoxHelp.resources
+C:\Users\Михаил\Desktop\portfolio_setting с ошибкой\Projects\qplwork\qplwork\obj\x86\Debug\qplwork.Properties.Resources.resources
+C:\Users\Михаил\Desktop\portfolio_setting с ошибкой\Projects\qplwork\qplwork\obj\x86\Debug\qplwork.csproj.GenerateResource.Cache
+C:\work\portfolio_setting (1)\portfolio_setting с ошибкой\Projects\qplwork\qplwork\bin\Debug\ICO.ico
+C:\work\portfolio_setting (1)\portfolio_setting с ошибкой\Projects\qplwork\qplwork\obj\x86\Debug\qplwork.Form1.resources
+C:\work\portfolio_setting (1)\portfolio_setting с ошибкой\Projects\qplwork\qplwork\obj\x86\Debug\qplwork.MsgBoxHelp.resources
+C:\work\portfolio_setting (1)\portfolio_setting с ошибкой\Projects\qplwork\qplwork\obj\x86\Debug\qplwork.Properties.Resources.resources
+C:\work\portfolio_setting (1)\portfolio_setting с ошибкой\Projects\qplwork\qplwork\obj\x86\Debug\qplwork.csproj.GenerateResource.Cache
+C:\work\portfolio_setting (1)\portfolio_setting с ошибкой\Projects\qplwork\qplwork\bin\Debug\Настройка портфеля.exe
+C:\work\portfolio_setting (1)\portfolio_setting с ошибкой\Projects\qplwork\qplwork\bin\Debug\Настройка портфеля.pdb
+C:\work\portfolio_setting (1)\portfolio_setting с ошибкой\Projects\qplwork\qplwork\obj\x86\Debug\Настройка портфеля.exe
+C:\work\portfolio_setting (1)\portfolio_setting с ошибкой\Projects\qplwork\qplwork\obj\x86\Debug\Настройка портфеля.pdb

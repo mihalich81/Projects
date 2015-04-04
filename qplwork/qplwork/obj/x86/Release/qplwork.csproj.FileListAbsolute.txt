@@ -1,0 +1,9 @@
+C:\work\portfolio_setting (1)\portfolio_setting с ошибкой\Projects\qplwork\qplwork\bin\Release\ICO.ico
+C:\work\portfolio_setting (1)\portfolio_setting с ошибкой\Projects\qplwork\qplwork\obj\x86\Release\qplwork.Form1.resources
+C:\work\portfolio_setting (1)\portfolio_setting с ошибкой\Projects\qplwork\qplwork\obj\x86\Release\qplwork.MsgBoxHelp.resources
+C:\work\portfolio_setting (1)\portfolio_setting с ошибкой\Projects\qplwork\qplwork\obj\x86\Release\qplwork.Properties.Resources.resources
+C:\work\portfolio_setting (1)\portfolio_setting с ошибкой\Projects\qplwork\qplwork\obj\x86\Release\qplwork.csproj.GenerateResource.Cache
+C:\work\portfolio_setting (1)\portfolio_setting с ошибкой\Projects\qplwork\qplwork\bin\Release\Настройка портфеля.exe
+C:\work\portfolio_setting (1)\portfolio_setting с ошибкой\Projects\qplwork\qplwork\bin\Release\Настройка портфеля.pdb
+C:\work\portfolio_setting (1)\portfolio_setting с ошибкой\Projects\qplwork\qplwork\obj\x86\Release\Настройка портфеля.exe
+C:\work\portfolio_setting (1)\portfolio_setting с ошибкой\Projects\qplwork\qplwork\obj\x86\Release\Настройка портфеля.pdb
