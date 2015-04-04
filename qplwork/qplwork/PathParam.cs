@@ -16,7 +16,7 @@ namespace qplwork
             int height = Program.form.CreateLabel(9, y, _paramShowedName, true, 11F);
             height += Program.form.CreateLabel(9, y + height, _paramComments, false, 8F);
 
-            textBox = Program.form.CreateTextBox(9 + Portfel.dx, y, _paramValue, new EventHandler(BoxTextChanged));
+            textBox = Program.form.CreateTextBox(9 + Portfel.dx, y, _paramValue, new EventHandler(BoxTextChanged), new KeyPressEventHandler(KeyPressed));
             Program.form.CreateButton(9 + Portfel.dx + 151, y, "...", new EventHandler(Click));
             return height;
         }
@@ -32,6 +32,11 @@ namespace qplwork
             path.SelectedPath = Program.form.openFileDialog1.FileName.Remove(index, Program.form.openFileDialog1.FileName.Length - index);
             if (path.ShowDialog() == DialogResult.OK)
                 textBox.Text = path.SelectedPath;
+        }
+
+        public void KeyPressed(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = (e.KeyChar == ' ');
         }
 
         private void BoxTextChanged(object sender, EventArgs e)

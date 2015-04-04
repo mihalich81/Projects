@@ -15,8 +15,13 @@ namespace qplwork
             int height = Program.form.CreateLabel(9, y, _paramShowedName, true, 11F);
             height += Program.form.CreateLabel(9, y + height, _paramComments, false, 8F);
 
-            textBox = Program.form.CreateTextBox(9 + Portfel.dx, y, _paramValue, new EventHandler(BoxTextChanged));
+            textBox = Program.form.CreateTextBox(9 + Portfel.dx, y, _paramValue, new EventHandler(BoxTextChanged), KeyPressHandler);
             return height;
+        }
+
+        private void KeyPressHandler(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = (e.KeyChar == ' ');
         }
 
         public override string GetNewValue()

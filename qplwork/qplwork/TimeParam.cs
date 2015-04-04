@@ -19,6 +19,8 @@ namespace qplwork
             return height;
         }
 
+
+
         public override string GetNewValue()
         {
             return maskedTextBox.Text.Replace(":","");

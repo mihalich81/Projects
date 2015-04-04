@@ -83,6 +83,7 @@ namespace qplwork
             int size = 0;
             for (int i = 0; i < rows; i++)
             {
+                if (heights[i] != 0)
                 tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Absolute, heights[i] > 0 ? heights[i] - 2 : heights[i]));
                 size += Convert.ToInt32(heights[i]);
             }
@@ -106,7 +107,7 @@ namespace qplwork
             return label.PreferredHeight + 5;
         }
 
-        public TextBox CreateTextBox(int x, int y, string text, EventHandler handler)
+        public TextBox CreateTextBox(int x, int y, string text, EventHandler handler, KeyPressEventHandler keyPressHandler)
         {
             TextBox textBox1 = new TextBox();
             textBox1.Location = new System.Drawing.Point(x, y);
@@ -115,6 +116,8 @@ namespace qplwork
             textBox1.Text = text;
             if (handler != null)
                 textBox1.TextChanged += handler;
+            if (keyPressHandler != null)
+                textBox1.KeyPress += keyPressHandler;
             panel.Controls.Add(textBox1);
             return textBox1;
         }
