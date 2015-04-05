@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qplwork", "qplwork\qplwork.csproj", "{523AE50F-1C6F-4A18-BE65-07A832717943}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup2", "Setup2\Setup2.vdproj", "{E9E6C45E-D372-4A47-9982-5756C1AD1CD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -14,6 +16,10 @@ Global
 		{523AE50F-1C6F-4A18-BE65-07A832717943}.Debug|x86.Build.0 = Debug|x86
 		{523AE50F-1C6F-4A18-BE65-07A832717943}.Release|x86.ActiveCfg = Release|x86
 		{523AE50F-1C6F-4A18-BE65-07A832717943}.Release|x86.Build.0 = Release|x86
+		{E9E6C45E-D372-4A47-9982-5756C1AD1CD7}.Debug|x86.ActiveCfg = Debug
+		{E9E6C45E-D372-4A47-9982-5756C1AD1CD7}.Debug|x86.Build.0 = Debug
+		{E9E6C45E-D372-4A47-9982-5756C1AD1CD7}.Release|x86.ActiveCfg = Release
+		{E9E6C45E-D372-4A47-9982-5756C1AD1CD7}.Release|x86.Build.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

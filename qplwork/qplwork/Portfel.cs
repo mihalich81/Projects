@@ -216,7 +216,7 @@ namespace qplwork
                         if (!string.IsNullOrEmpty(_params[i].GetValue().ToString()))
                             newLine = newLine.Replace(_params[i].GetValue(), "");
 
-                        newLine = newLine.Replace("=", "= " + _params[i].GetNewValue());
+                        newLine = newLine.Replace("= ", "= " + _params[i].GetNewValue());
                     }
                     else
                     {
